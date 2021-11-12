@@ -363,7 +363,7 @@ namespace Coltoi_Andrei_Lab5
         
         private void btnRefresh_Click(object sender, RoutedEventArgs e)
         {
-            BindDataGrid();
+            BindDataGrid(); 
         }
     }
 }
